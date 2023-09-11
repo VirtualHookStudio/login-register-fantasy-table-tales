@@ -1,4 +1,4 @@
-# fantasy-table-tales
+# frontend
 
 ## Project setup
 ```
